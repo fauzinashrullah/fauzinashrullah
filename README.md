@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Fauzi!
 
-I'm a backend developer who loves clean code and spicy sambal 🌶️  
+I'm a backend developer who loves clean code and building things that just work.  
 Currently focusing on Java, Express.js, and PostgreSQL 🚀
 
 ---
