@@ -22,7 +22,6 @@ Currently focusing on Java, Express.js, and PostgreSQL 🚀
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fauzinashrullah&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=fauzinashrullah)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=fauzinashrullah&theme=tokyonight&hide_border=true)](https://streak-stats.demolab.com?user=fauzinashrullah)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fauzinashrullah&theme=tokyonight&hide_border=true)
 
 
