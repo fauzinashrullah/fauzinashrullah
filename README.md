@@ -21,10 +21,6 @@ Currently focusing on Java, Express.js, and PostgreSQL 🚀
 ![Fauzi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fauzinashrullah&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fauzinashrullah&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fauzinashrullah)](https://git.io/streak-stats)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fauzinashrullah&theme=tokyonight&hide_border=true)
-
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzinashrullah&layout=compact&theme=tokyonight&hide_border=true)
 
