@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm Fauzi!
 
-I'm a backend developer who loves clean code and building things that just work.  
-Currently focusing on Java, Express.js, and PostgreSQL 🚀
+I'm a passionate **Backend Developer** who loves crafting clean and maintainable APIs that just work.  
+Currently focused on building robust systems using **Java (Spring Boot)** and **C# (.NET Core)**, with PostgreSQL as my go-to database.  
+Always learning, always improving. 🚀
 
 ---
 
@@ -9,10 +10,11 @@ Currently focusing on Java, Express.js, and PostgreSQL 🚀
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat&logo=dotnet)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger)
 
 ---
 
@@ -26,7 +28,7 @@ Currently focusing on Java, Express.js, and PostgreSQL 🚀
 
 ---
 
-### 🔗 Let’s Connect!
+### 🔗 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fauzi-malik-nashrullah)  
 [![Portfolio](https://img.shields.io/badge/-My%20Portfolio-121212?style=flat&logo=vercel&logoColor=white)](https://portofolio-pearl-beta.vercel.app/)
