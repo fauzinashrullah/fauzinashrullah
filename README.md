@@ -1,8 +1,9 @@
 ### Hi there 👋 I'm Fauzi!
 
-I'm a passionate **Backend Developer** who loves crafting clean and maintainable APIs that just work.  
-Currently focused on building robust systems using **Java (Spring Boot)** and **C# (.NET Core)**, with PostgreSQL as my go-to database.  
-Always learning, always improving. 🚀
+I'm a focused **Back-End Developer** who crafts secure and maintainable REST APIs using **Java (Spring Boot)** and **PostgreSQL**.  
+I enjoy writing clean code, building real-world backend systems, and continuously leveling up my skills.  
+Currently specializing in Spring Boot with a strong foundation in authentication (JWT), layered architecture, and database modeling.  
+Let the code speak for itself. 💻✨
 
 ---
 
@@ -10,11 +11,11 @@ Always learning, always improving. 🚀
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp)
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat&logo=dotnet)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apachemaven)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens)
 
 ---
 
@@ -35,4 +36,5 @@ Always learning, always improving. 🚀
 
 ---
 
-> *"Push yourself, because no one else is going to do it for you."*
+> *"Push yourself, because no one else is going to do it for you."*  
+> — But I also push commits 😤
