@@ -1,9 +1,8 @@
 ### Hi there 👋 I'm Fauzi!
 
-I'm a focused **Back-End Developer** who crafts secure and maintainable REST APIs using **Java (Spring Boot)** and **PostgreSQL**.  
-I enjoy writing clean code, building real-world backend systems, and continuously leveling up my skills.  
-Currently specializing in Spring Boot with a strong foundation in authentication (JWT), layered architecture, and database modeling.  
-Let the code speak for itself. 💻✨
+I'm a dedicated **Back-End Developer** specializing in building secure, scalable, and maintainable RESTful APIs using **Java (Spring Boot)** and **PostgreSQL**.  
+I take pride in writing clean, efficient code and enjoy solving real-world problems through backend systems.  
+With a strong foundation in authentication (JWT), layered architecture, and database modeling, I let the code speak louder than words. 💻✨
 
 ---
 
@@ -12,10 +11,10 @@ Let the code speak for itself. 💻✨
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apachemaven)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
 ---
 
