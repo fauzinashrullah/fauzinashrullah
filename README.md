@@ -1,13 +1,17 @@
 ### Hi there 👋 I'm Fauzi!
 
-I'm a dedicated **Back-End Developer** specializing in building secure, scalable, and maintainable RESTful APIs using **Java (Spring Boot)** and **PostgreSQL**.  
-I take pride in writing clean, efficient code and enjoy solving real-world problems through backend systems.  
-With a strong foundation in authentication (JWT), layered architecture, and database modeling, I let the code speak louder than words. 💻✨
+I'm a **Back-End Developer** specializing in building **secure, scalable, and maintainable RESTful APIs**  
+using **Golang, Java (Spring Boot), and PostgreSQL**.  
+I focus on writing clean, efficient code and enjoy solving real-world problems through backend systems.  
+Strong foundation in authentication (JWT), layered architecture, database modeling, and API documentation. 💻✨
 
 ---
 
 ### 🛠️ Tech Stack
 
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go)
+![Gin](https://img.shields.io/badge/-Gin-008ECF?style=flat&logo=go)
+![GORM](https://img.shields.io/badge/-GORM-000000?style=flat&logo=go)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
