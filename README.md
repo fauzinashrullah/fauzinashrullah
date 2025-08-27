@@ -3,7 +3,7 @@
 I'm a **Back-End Developer** specializing in building **secure, scalable, and maintainable RESTful APIs**  
 using **Java (Spring Boot)** and **PostgreSQL**.  
 I focus on writing clean, efficient code and enjoy solving real-world problems through backend systems.  
-Strong foundation in **authentication (JWT)**, **DDD + Hexagonal Architecture**, **database modeling**, and **API documentation**. 💻✨
+Strong foundation in **authentication (JWT)**, **database modeling**, and **API documentation**. 💻✨
 
 ---
 
@@ -35,7 +35,7 @@ Strong foundation in **authentication (JWT)**, **DDD + Hexagonal Architecture**,
 ### 🔗 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fauzi-malik-nashrullah)  
-[![Portfolio](https://img.shields.io/badge/-My%20Portfolio-121212?style=flat&logo=vercel&logoColor=white)](https://portofolio-pearl-beta.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-My%20Portfolio-121212?style=flat&logo=vercel&logoColor=white)](https://fauzinashrullah.vercel.app/)
 
 ---
 
