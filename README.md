@@ -24,7 +24,7 @@ Strong foundation in **authentication (JWT)**, **database modeling**, and **API 
 
 ### 📊 GitHub Stats
 
-![Fauzi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fauzinashrullah&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fauzinashrullah)](https://github.com/fauzinashrullah/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fauzinashrullah&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
