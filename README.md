@@ -28,7 +28,7 @@ Strong foundation in **authentication (JWT)**, **database modeling**, and **API 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fauzinashrullah&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzinashrullah)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzinashrullah&size_weight=0.5&count_weight=0.5)
 
 ---
 
